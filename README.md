@@ -12,7 +12,7 @@ ld for practice
     <h1>Lucid Dreaming</h1>
     <h2>What is <b>Lucid dreaming?</b></h2>
     <p>Put simply, a lucid dream is a dream in which, while dreaming, you realize you are dreaming. <br>
-      Lucid dreamers report that these dreams can feel <em>more</em> real than waking life, sight, sounds and even smells can be    intense in lucid dreams, even the scenery or inanimate objects can seem alive.</p>
+      Lucid dreamers report that these dreams can feel <em>more</em> real than waking life. Sight, sounds and even smells can be    intense in lucid dreams, even the scenery or inanimate objects can seem alive.</p>
     <h2><em>Why</em> learn to lucid dream?</h2>
    </header>
     <img src="20190315_131749.jpg" alt="forest" height='450' width='850'>
