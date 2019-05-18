@@ -21,7 +21,7 @@ ld for practice
   Try exploring this site for some more useful information and <abbr title="lucid dreaming">ld<abbr> techniques. <br> There are also some examples of real lucid dreams, they may help you understand why lucid dreaming is so useful and <b>FUN!</b></p>
       
     
-  #add links to other info -ld techniques-stories-nightmares-stages of sleep-
+  <!--add links to other info -ld techniques-stories-nightmares-stages of sleep- -->
   
   
 </body>
