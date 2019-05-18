@@ -2,10 +2,10 @@
 ld for practice
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <title>Lucid Dreaming</title>
+<head>
+  <title>Lucid Dreaming</title>
     
-  </head>
+</head>
   
 <body>
   <header>
@@ -22,6 +22,10 @@ ld for practice
       
     
   <!--add links to other info -ld techniques-stories-nightmares-stages of sleep- -->
-  
-  
 </body>
+<footer>
+  <ol>
+    <li>Learn how to lucid dream</li>
+    <li>Lucid dream stories</li>
+    <li>Control nightmares</li>
+    <li>Stages of sleep</li>
