@@ -7,14 +7,14 @@ ld for practice
     
   </head>
   
-  <body>
-  <header>
+<body>
+   <header>
     <h1>Lucid Dreaming</h1>
     <h2>What is <b>Lucid dreaming?</b></h2>
     <p>Put simply, a lucid dream is a dream in which, while dreaming, you realize you are dreaming. <br>
-      Lucid dreamers report that these dreams can feel <em>more</em> real than waking life, sight, sounds and even smells can be intense in lucid dreams and even the scenery or inanimate objects can seem alive.</p>
+      Lucid dreamers report that these dreams can feel <em>more</em> real than waking life, sight, sounds and even smells can be    intense in lucid dreams, even the scenery or inanimate objects can seem alive.</p>
     <h2><em>Why</em> learn to lucid dream?</h2>
-    </header>
+   </header>
     <img src="20190315_131749.jpg" alt="forest" height='450' width='850'>
     <p>Take a moment to look at this image. Imagine yourself in this location, the smells, the sunlight, the humid mid-day heat. One moment it all seems normal and the next...you realize it is a dream and you take control, you have god-like abilities, you can fly or teleport, anything you can imagine can be achieved in a lucid dream.<br>
      There are many reasons to learn lucid dreaming, self development and learning to control nightmares being two of the most useful reasons. <br>
@@ -23,5 +23,4 @@ ld for practice
   
   
   
-  
-  </body>
+</body>
