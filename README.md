@@ -4,7 +4,7 @@ ld for practice
 <html lang="en" dir="ltr">
 <head>
   <title>Lucid Dreaming</title>
-    
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
   
 <body>
