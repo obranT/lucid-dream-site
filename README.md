@@ -20,12 +20,17 @@ ld for practice
      There are many reasons to learn lucid dreaming, self development and learning to control nightmares being two of the most useful reasons. <br>
   Try exploring this site for some more useful information and <abbr title="lucid dreaming">ld<abbr> techniques. <br> There are also some examples of real lucid dreams, they may help you understand why lucid dreaming is so useful and <b>FUN!</b></p>
       
-    
-  <!--add links to other info -ld techniques-stories-nightmares-stages of sleep- -->
+     <!--add links to other info -ld techniques-stories-nightmares-stages of sleep- -->
+
 </body>
+
 <footer>
-  <ol>
-    <li>Learn how to lucid dream</li>
-    <li>Lucid dream stories</li>
-    <li>Control nightmares</li>
-    <li>Stages of sleep</li>
+  <div class="navbar">
+    <a href="#learn" class="active">Learn how to lucid dream</a>
+    <a href="#stories">Lucid dream stories</a>
+    <a href="#nightmares">Control nightmares</a>
+    <a href="#rem">Stages of sleep</a>
+  </div> 
+  
+</footer>
+     
