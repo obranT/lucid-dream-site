@@ -26,7 +26,7 @@ ld for practice
 
 <footer>
   <div class="navbar">
-    <a href="#learn" class="active">Learn how to lucid dream</a>
+    <a href="#f8e12f4" class="active">Learn how to lucid dream</a>
     <a href="#stories">Lucid dream stories</a>
     <a href="#nightmares">Control nightmares</a>
     <a href="#rem">Stages of sleep</a>
