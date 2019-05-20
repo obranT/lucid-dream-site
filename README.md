@@ -2,6 +2,7 @@
 ld for practice
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  <name=viewport content="width=device-width, initial-scale=1">
 <head>
   <title>Lucid Dreaming</title>
   <link rel="stylesheet" type="text/css" href="mystyle.css">
