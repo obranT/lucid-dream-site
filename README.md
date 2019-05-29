@@ -18,7 +18,7 @@ ld for practice
   </header>
     <img src="20190315_131749.jpg" alt="forest" height='450' width='850'>
   <p>Take a moment to look at this image. <em>Imagine</em>, if you will, this location, with its smells, the sunlight, the humid mid-day heat. One moment it all seems normal and the next...you realize it is a dream and you take control, you have god-like abilities, you can fly or teleport, anything you can imagine can be achieved in a lucid dream.<br>
-     There are many reasons to learn lucid dreaming, self development and learning to control nightmares being two of the most useful reasons. <br>
+     There are many reasons to learn lucid dreaming, self development and learning to <b>control nightmares</b> being two of the most useful reasons. <br>
   Try exploring this site for some more useful information and <abbr title="lucid dreaming">ld</abbr> techniques. <br> There are also some examples of real lucid dreams, they may help you understand why lucid dreaming is so useful and <b>FUN!</b></p>
       
      
@@ -30,7 +30,6 @@ ld for practice
     <a href="#learn" class="active">Home</a>
      <a href="#stories">Learn how to lucid dream</a>
     <a href="#stories">Lucid dream stories</a>
-    <a href="#nightmares">Control nightmares</a>
     <a href="#rem">Stages of sleep</a>
   </div> 
   
