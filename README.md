@@ -12,9 +12,9 @@ ld for practice
   <header>
     <h1 style="color: purple;">Lucid Dreaming</h1>
     <ul>
-    <li><a href="#rdm">Introduction</a></li>
-    <li><a href="#vero">Habitat</a></li>
-    <li><a href="#nav">Media</a></li>
+    <li><a href="#rdm">rdm</a></li>
+    <li><a href="#vero">vero</a></li>
+    <li><a href="#nav">nav</a></li>
   </ul>
     <h2>What is <b>Lucid dreaming?</b></h2>
     <p>Put simply, a lucid dream is a dream in which, while dreaming, you realize you are dreaming. <br>
