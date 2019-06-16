@@ -2,7 +2,8 @@
 ld for practice
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <name=viewport content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <head>
   <title>Lucid Dreaming</title>
   <link rel="stylesheet" type="text/css" href="mystyle.css">
